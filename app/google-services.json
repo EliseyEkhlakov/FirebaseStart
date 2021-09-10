@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130425748983",
+    "project_id": "fir-start-6a139",
+    "storage_bucket": "fir-start-6a139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130425748983:android:9a75f130e9a685c80c42f2",
+        "android_client_info": {
+          "package_name": "com.adorly.firebasestart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130425748983-imf11t5lajt46pd8mg2hk6prikd91ulr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcyi9t_X7EvpIo7rFvDDFHF1Jb2kQ5Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130425748983-imf11t5lajt46pd8mg2hk6prikd91ulr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
